@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente trabalho com Python para automações e Data Science
 - 🌱 Estou aprendendo Django e Machine Learning
-- 📫 Como me encontrar: www.linkedin.com/in/davi-lauriano-da-silva
 - 😄 Pronomes: Ele/dele
 
 <div style="display: inline_block"><br>
@@ -17,7 +16,7 @@
 </div>
   
   ##
- 
+- 📫 Como me encontrar:
 <div> 
   <a href="https://www.instagram.com/laurianodavi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:davilauriano0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
