@@ -1,6 +1,5 @@
 ## Olá, sou o Davi Lauriano 👋
 
-
 - 🔭 Atualmente trabalho com Python para automações e Data Science
 - 🌱 Estou aprendendo Django e Machine Learning
 - 😄 Pronomes: Ele/dele
@@ -23,12 +22,18 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=laurianoo&show_icons=true&locale=en" alt="laurianoo" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laurianoo&" alt="laurianoo" /></p>
 
-  
-  ##
 - 📫 Como me encontrar:
+
 <div> 
   <a href="https://www.instagram.com/laurianodavi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:davilauriano0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davi-lauriano-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/davi-lauriano-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
