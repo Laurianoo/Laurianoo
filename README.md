@@ -1,5 +1,5 @@
-## Olá, sou o Davi Lauriano 👋
-
+## Olá, me chamo Davi Lauriano 👋
+**`Python developer`**
 - 🔭 Atualmente trabalho com Python para automações e Data Science
 - 🌱 Estou aprendendo Django e Machine Learning
 - 😄 Pronomes: Ele/dele
@@ -8,7 +8,7 @@
   <img src="Kid_Goku_GIF.gif" alt="Kid Goku" />
 </p>
 
-<h2>🚀 Linguagens e ferramentas que uso</h2>
+<h2>🚀 Linguagens e tecnologias que uso</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
@@ -20,7 +20,6 @@
 <ul>
 <li><a target="_blank" href=""></a></li>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=laurianoo&show_icons=true&theme=tokyonight&locale=en" alt="laurianoo" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laurianoo&theme=tokyonight" alt="laurianoo" /></p>
 
 - 📫 Como me encontrar:
 
